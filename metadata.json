@@ -1,0 +1,6 @@
+{
+  "name": "JK School",
+  "description": "Enterprise-Level School Management System for JK Montessori School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
